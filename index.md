@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Peran Keluarga Dalam Kesehatan Pasien TBC
 
-You can use the [editor on GitHub](https://github.com/mryusuf/pagar-besi-page-edukasi-keluarga/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dukungan keluarga adalah sebuah sikap, tindakan dan penerimaan keluarga terhadap anggotanya. Keluarga sebagai orang terdekat dari penderita memiliki peran sebagai penasihat, pengawas minum obat, pemanta nutrisi, pengawasan terhadap perilaku manajemen batuk dan dahak, pengontrol kondisi rumah, konsultan dengan petugas kesehatan, penyediakan fasilitas dan akses perawatan, pembiayaan, pendeteksi dini, dan pendidik. Oleh karena itu, dukungan keluarga berperan penting untuk kesembuhan penderita TB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Pengertian dukungan keluarga
 
-```markdown
-Syntax highlighted code block
+Friedman, et al. (2010) dalam Melizza (2018) mendefinisikan dukungan keluarga sebagai bentuk penerimaan keluarga terhadap kondisi anggota keluarga. Penerimaan ini berlangsung sepanjang hidup dan dapat meningkatkan kemampuan adaptasi keluarga dalam menghadapi hambatan-hambatan.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Bentuk dukungan pada penderita TB
 
-1. Numbered
-2. List
+Dukungan keluarga dibagi menjadi 4 yaitu dukungan instrumental, dukungan informasional, dukungan penilaian atau penghargaan, dan dukungan emosional (Friedman, et al., 2010 dalam Melizza, 2018):
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mryusuf/pagar-besi-page-edukasi-keluarga/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Dukungan instrumental merupakan dukungan yang dapat membantu individu dalam menyelesaikan masalahnya secara langsung (Melizza, 2018). Dukungan ini dapat berupa uang atau dana, mendampingi berobat, menyarankan istirahat, dan lain sebagainya (Nurhidayati dan Rahayu, 2017).
+2. Dukungan informasional ialah pemberian informasi terkait kondisi yang sedang dialami oleh penderita. Dukungan ini dapat berupa nasihat, rekomendasi, dan penjelasan terkait penyakit (Melizza, 2018).
+3. Friedman (2013) dalam Nurhidayati dan Rahayu (2017) menyatakan bahwa dukungan penghargaan dapat berupa pujian, motivasi, maupun semangat untuk melakukan pengobatan. Seseorang yang memperoleh dukungan penghargaan akan merasa dihargai, dan diakui kemampuannya.
+4. Dukungan emosional mampu menciptakan perasaan nyaman, aman, merasa dicintai, serta diterima dalam keluarga (Melizza, 2018). Bentuk dari dukungan emosional berupa peningkatan komunikasi antara penderita dengan keluarganya, kepercayaan terhadap penderita, menunjukkan rasa kasih sayang kepada penderita, dan lain sebagainya (Nurhidayati dan Rahayu, 2017).
