@@ -1,14 +1,15 @@
 # Peran Keluarga Dalam Kesehatan Pasien TBC
+![tb](img/family1.jpg)
 
 Dukungan keluarga adalah sebuah sikap, tindakan dan penerimaan keluarga terhadap anggotanya. Keluarga sebagai orang terdekat dari penderita memiliki peran sebagai penasihat, pengawas minum obat, pemanta nutrisi, pengawasan terhadap perilaku manajemen batuk dan dahak, pengontrol kondisi rumah, konsultan dengan petugas kesehatan, penyediakan fasilitas dan akses perawatan, pembiayaan, pendeteksi dini, dan pendidik. Oleh karena itu, dukungan keluarga berperan penting untuk kesembuhan penderita TB.
 
-
+![tb](img/family3.jpg)
 
 ### Pengertian dukungan keluarga
 
 Friedman, et al. (2010) dalam Melizza (2018) mendefinisikan dukungan keluarga sebagai bentuk penerimaan keluarga terhadap kondisi anggota keluarga. Penerimaan ini berlangsung sepanjang hidup dan dapat meningkatkan kemampuan adaptasi keluarga dalam menghadapi hambatan-hambatan.
 
-
+![tb](img/family2.jpg)
 ### Bentuk dukungan pada penderita TB
 
 Dukungan keluarga dibagi menjadi 4 yaitu dukungan instrumental, dukungan informasional, dukungan penilaian atau penghargaan, dan dukungan emosional (Friedman, et al., 2010 dalam Melizza, 2018):
